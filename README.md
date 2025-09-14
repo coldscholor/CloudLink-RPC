@@ -240,8 +240,8 @@ A: 框架目前假设返回String类型，可扩展支持复杂对象序列化�
 ## 联系方式
 
 - 作者: 寒士obj
-- 邮箱: [your-email@example.com]
-- 项目地址: [https://github.com/your-username/RPC-project]
+- 邮箱: [zoujun483@163.com]
+- 项目地址: [https://github.com/coldscholor/RPC-project]
 
 ---
 
